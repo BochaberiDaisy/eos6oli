@@ -1,7 +1,8 @@
-# Model: eos60li 
+# Model: eos60li - Aqueous Solubility Prediction
 
 ## Overview
-The model is predicts fast aqueous solubility based on the Molecule Attention Transformer (MAT). 
+This repository contains the model validation task for the Outreachy Summer Internship 2024 contributions to Ersilia.
+
 
 ## Model Information
 - Input: `Compound`
