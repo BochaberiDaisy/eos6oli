@@ -4,13 +4,13 @@
 The model is predicts fast aqueous solubility based on the Molecule Attention Transformer (MAT). 
 
 ## Model Information
-Input: `Compound`
-Input Shape: `Single`
-Task: `Regression`
-Output: `Experimental value`
-Output Type: `Float`
-Output Shape: `Single`
-Interpretation: `Predicted LogS (log of the solubility)`
+- Input: `Compound`
+- Input Shape: `Single`
+- Task: git add`Regression`
+- Output: `Experimental value`
+- Output Type: `Float`
+- Output Shape: `Single`
+- Interpretation: `Predicted LogS (log of the solubility)`
 
 
 ## Steps to Reproduce
