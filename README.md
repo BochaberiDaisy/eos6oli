@@ -23,7 +23,7 @@ Run the following commands on your terminal to download and run the model on you
 
 ```
 ersilia -v fetch eos6oli
-ersilia -v serve eoso6oli
+ersilia -v serve eos6oli
 ersilia api run -i data/input.csv -o data/output.csv
 ```
 
